@@ -3,7 +3,7 @@
 
 ---
 ### where hash generate in .bat files
-*hash id* :\
+**hash id** :\
 hash code example by using nodejs & ethersjs.\
 i just add address of source code.
 ```node
@@ -13,12 +13,12 @@ let theHash = `https://github.com/mosi-sol/live-contracts-s4`;
 let xcodes = ethers.utils.id(theHash)
 console.log(xcodes);
 ```
-dependency:
+**dependency**:
 ```json
 {
-  "name": "ethersjs-keccak",
-  "version": "1.0.0",
-  "description": "",
+  "name": "mosisol-shell",
+  "version": "1.0.1",
+  "description": "address to hash for validation in future projects",
   "main": "index.js",
   "scripts": {
     "me": "node index.js"
