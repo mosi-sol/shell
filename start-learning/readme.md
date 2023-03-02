@@ -13,3 +13,21 @@ let theHash = `https://github.com/mosi-sol/live-contracts-s4`;
 let xcodes = ethers.utils.id(theHash)
 console.log(xcodes);
 ```
+dependency:
+```json
+{
+  "name": "ethersjs-keccak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "me": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.6.9"
+  }
+}
+```
