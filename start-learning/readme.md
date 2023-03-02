@@ -2,8 +2,8 @@
 - windows version: mosi-sol-setup.bat [here](https://github.com/mosi-sol/shell/blob/main/start-learning/mosi-sol-setup.bat) 
 
 ---
-
-#### hash id :
+### where hash generate in .bat files
+*hash id* :\
 hash code example by using nodejs & ethersjs.\
 i just add address of source code.
 ```node
