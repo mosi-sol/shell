@@ -30,6 +30,8 @@ EXIT /B %ERRORLEVEL%
     echo "Season 1 ready to download" 
     git clone https://github.com/mosi-sol/live-contracts.git
     echo ___________________________
+    echo 0xaaf6c64cba7bd9e1432a7ea6975adce696cb12460902f89b2c0006361c4f0631
+    echo ___________________________
     pause 
 call :setter
 ::exit /b 0
@@ -37,6 +39,8 @@ call :setter
 :season2
     echo "Season 2 ready to download" 
     git clone https://github.com/mosi-sol/live-contracts-s2.git
+    echo ___________________________
+    echo 0xe8f6c6a21cf503e7ba7794c6b73521e2babbe67682d1c709a9e390121abf6771
     echo ___________________________
     pause
 goto :setter
@@ -46,6 +50,8 @@ goto :setter
     echo "Season 3 ready to download" 
     git clone https://github.com/mosi-sol/live-contract-s3.git
     echo ___________________________
+    echo 0x5cab1b18530f09b1980e726e7fe96d8dcc5f88e5f1ccfcb1301cf437a5a7f961
+    echo ___________________________
     pause
 goto :setter
 
@@ -53,6 +59,8 @@ goto :setter
 :season4
     echo "Season 4 ready to download" 
     git clone https://github.com/mosi-sol/live-contracts-s4.git
+    echo ___________________________
+    echo 0xfaaf9581818c50781ca5eed7379892a7895e767e4d9f4b94455e3f4146b952a8
     echo ___________________________
     pause
 goto :setter
