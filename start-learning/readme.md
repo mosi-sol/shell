@@ -31,3 +31,4 @@ console.log(xcodes);
   }
 }
 ```
+run: `npm run me` or `node index.js`
