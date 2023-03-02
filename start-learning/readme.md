@@ -5,7 +5,9 @@
 ### where hash generate in .bat files
 **hash id** :\
 hash code example by using nodejs & ethersjs.\
-i just add address of source code.
+i just add address of source code.\
+how to?\
+`npm init -y` - `npm i ethers@5.6.9` - make/change `index.js` by code in below.
 ```node
 const { ethers } = require("ethers");
 
