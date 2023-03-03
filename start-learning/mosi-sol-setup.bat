@@ -4,7 +4,7 @@
 title https://github.com/mosi-sol
 color 0A
 
-echo "batch file for windows, unix  need bash file to run!"
+echo "batch file for windows, unix  need shell-script to run!"
 echo "if your (git) installed, continue! else [ ctrl+c ] to exit"
 echo "Tips: put this file (mosi-sol-setup.bat) into an empty folder, then run script"
 echo .
