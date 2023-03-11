@@ -1,4 +1,4 @@
-#### example:
+#### example usecase:
 we track on a blog post or tweet, maybe the auther change the content. how we can compair?\
 by using cryptography!\
 in this tutorial 3 different hash methods:
