@@ -101,13 +101,6 @@ function encrypt() {
 	encryptedData += cipher.final("hex");
 	console.log("\nEncrypted message: " , '0x'+encryptedData, '\n');	
 	// return encryptedData;
-	/*
-	// the decipher function
-	const decipher = crypto.createDecipheriv(algorithm, Securitykey, initVector);
-	let decryptedData = decipher.update(encryptedData, "hex", "utf-8");
-	decryptedData += decipher.final("utf8");
-	console.log("Decrypted message: " + decryptedData);
-	*/
 }
 
 // =====================================
