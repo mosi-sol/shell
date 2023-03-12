@@ -1,0 +1,16 @@
+{
+  "name": "_nodejs-blockchain",
+  "version": "1.2.0",
+  "description": "simulated blockchain, by using nodejs + mock block scan",
+  "main": "mosisolSimulator.js",
+  "scripts": {
+    "me": "node mosisolSimulator"
+  },
+  "keywords": [],
+  "author": "mosi-sol",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "ethers": "^6.1.0"
+  }
+}
