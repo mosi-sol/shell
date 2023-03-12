@@ -20,6 +20,7 @@ first run `npm i`, then change ***parm1 & parm2*** content to youre content, run
 after changing `parm1, parm2` into the `index.js`
 - run `logger.bat`
 - auto genrate `result.txt` in the folder
+- dont forget to copy `result.txt` in another place
 
 ---
 
