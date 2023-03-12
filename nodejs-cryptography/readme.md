@@ -16,6 +16,10 @@ first run `npm i`, then change parm1 & parm2 content to youre content, run: `npm
 - npm
 - crypto from nodejs
 
+#### log:
+- run `logger.bat`
+- created `result.txt` in the folder
+
 ---
 
 expermential idea, not a full program.
