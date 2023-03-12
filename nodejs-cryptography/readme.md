@@ -18,7 +18,7 @@ first run `npm i`, then change parm1 & parm2 content to youre content, run: `npm
 
 #### log:
 - run `logger.bat`
-- created `result.txt` in the folder
+- auto genrate `result.txt` in the folder
 
 ---
 
