@@ -1,0 +1,17 @@
+{
+  "name": "cryptography",
+  "version": "1.10.1",
+  "description": "how to secure-trust review youre content by cryptography",
+  "main": "index.js",
+  "scripts": {
+    "me": "node index.js"
+  },
+  "keywords": [
+    "cryptography"
+  ],
+  "author": "mosi-sol",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
