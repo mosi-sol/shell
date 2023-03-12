@@ -98,6 +98,8 @@ console.log(JSON.stringify(myCoin, null, 4));
 console.log(`Is blockchain valid? ${myCoin.isChainValid()}`);
 ```
 
+#### dependency of this example: `npm i crypto-js`
+
 This code simulates a blockchain containing two blocks. The `Block` class represents a single block, while the `Blockchain` class represents the chain of blocks. 
 
 
