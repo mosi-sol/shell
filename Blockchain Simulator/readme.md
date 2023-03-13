@@ -190,3 +190,72 @@ Is blockchain valid? true
 Is blockchain valid? false
 
 ```
+
+---
+
+### example for block explorer by using jQuery:
+
+- index.html
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Blockchain Explorer</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="blockchain.js"></script>
+  </head>
+  <body>
+    <h1>Blockchain Explorer</h1>
+    <div id="blockchain"></div>
+  </body>
+</html>
+```
+
+- js, json, jquery (blockchain.js)
+```js
+// JSON database
+const blockchainData = [
+  {
+    index: 0,
+    timestamp: '2021-07-01T00:00:00.000Z',
+    data: 'Genesis Block',
+    previousHash: '0',
+    hash: '0000000000000000000000000000000000000000000000000000000000000000',
+    nonce: 0
+  },
+  {
+    index: 1,
+    timestamp: '2021-07-02T00:00:00.000Z',
+    data: 'Block 1',
+    previousHash: '0000000000000000000000000000000000000000000000000000000000000000',
+    hash: '00000e1c88733acd719b6a5e6f9b9a0d0a1ef6c5f1b6a59b6a5a6c37d6a5e6f9',
+    nonce: 137
+  },
+  {
+    index: 2,
+    timestamp: '2021-07-03T00:00:00.000Z',
+    data: 'Block 2',
+    previousHash: '00000e1c88733acd719b6a5e6f9b9a0d0a1ef6c5f1b6a59b6a5a6c37d6a5e6f9',
+    hash: '0000e3f3c3bae609aebf2d28a6a9f9c60d138b0a6b4a88a0e8c1e4f4d28a6a9f',
+    nonce: 143
+  }
+];
+
+// Display blockchain data
+$(document).ready(function() {
+  let blockchainHtml = '';
+
+  for (let i = 0; i < blockchainData.length; i++) {
+    blockchainHtml += '<div class="block">';
+    blockchainHtml += '<div class="block-header">Block #' + blockchainData[i].index + '</div>';
+    blockchainHtml += '<div class="block-data">' + blockchainData[i].data + '</div>';
+    blockchainHtml += '<div class="block-timestamp">' + blockchainData[i].timestamp + '</div>';
+    blockchainHtml += '<div class="block-hash">Hash: ' + blockchainData[i].hash + '</div>';
+    blockchainHtml += '<div class="block-previous-hash">Previous Hash: ' + blockchainData[i].previousHash + '</div>';
+    blockchainHtml += '<div class="block-nonce">Nonce: ' + blockchainData[i].nonce + '</div>';
+    blockchainHtml += '</div>';
+  }
+
+  $('#blockchain').html(blockchainHtml);
+});
+```
