@@ -10,6 +10,38 @@ run:
 
 Enjoy!
 
+#
+
+```
+		-----------
+		| block x |
+		-----------
+		  tx root
+		  	/ \
+		   /   \
+	 --------  --------
+	 | hash |  | hash |
+	 --------  --------
+	    / \       / \
+	   h1  h2    h3  h4
+	   |   |     |   |
+	   tx  tx    tx  tx 
+	   
+
+
+		-------------------------------------------------------------------
+		|                     block x (btc for example)                   |
+		| header :                                                        |
+		|           previous block (hash) + tx root + timestamp + nonce   |
+		| block :                                                         |
+		|            timestamp = time of mining finish                    |
+		|            nonce = magic #                                      |
+		|            tx root = merkle proof (or other algorithms)         |
+		-------------------------------------------------------------------
+		there is also can put data like:
+		version, difficulity, snap-shot, verifier's (miner, validator), tx-count, etc...
+```
+
 ---
 
 ## explain by another example:
