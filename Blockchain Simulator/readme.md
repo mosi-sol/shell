@@ -100,6 +100,22 @@ console.log(`Is blockchain valid? ${myCoin.isChainValid()}`);
 
 #### dependency of this example: `npm i crypto-js` (ver ^4.1.1)
 
+
+This code simulates a blockchain containing two blocks. The `Block` class represents a single block, while the `Blockchain` class represents the chain of blocks. 
+
+
+The `Block` class has properties such as the block's index, timestamp, data, previous hash, current hash, and nonce (a random number added to the block to make it unique). 
+
+
+The `Blockchain` class has methods to create the genesis block, get the latest block, add a new block to the chain, and verify the validity of the chain. 
+
+
+The code creates a new blockchain and adds two blocks to it. It then prints the blockchain and checks if it's valid. Finally, it modifies the data in the first block and recalculates its hash, which makes the blockchain invalid. The code prints the blockchain again and checks if it's valid again, which should return **false**. 
+
+
+Note that this is a simplified implementation for demonstration purposes and does not include features such as transaction validation, mining rewards, or peer-to-peer networking.
+
+
 output:
 ```js
 Block mined: 000b3efee99abdcd25c255bfde634d07a27af187a174dbfdfc0bd3d340b5ec88
@@ -174,17 +190,3 @@ Is blockchain valid? true
 Is blockchain valid? false
 
 ```
-
-This code simulates a blockchain containing two blocks. The `Block` class represents a single block, while the `Blockchain` class represents the chain of blocks. 
-
-
-The `Block` class has properties such as the block's index, timestamp, data, previous hash, current hash, and nonce (a random number added to the block to make it unique). 
-
-
-The `Blockchain` class has methods to create the genesis block, get the latest block, add a new block to the chain, and verify the validity of the chain. 
-
-
-The code creates a new blockchain and adds two blocks to it. It then prints the blockchain and checks if it's valid. Finally, it modifies the data in the first block and recalculates its hash, which makes the blockchain invalid. The code prints the blockchain again and checks if it's valid again, which should return **false**. 
-
-
-Note that this is a simplified implementation for demonstration purposes and does not include features such as transaction validation, mining rewards, or peer-to-peer networking.
