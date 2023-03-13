@@ -98,7 +98,82 @@ console.log(JSON.stringify(myCoin, null, 4));
 console.log(`Is blockchain valid? ${myCoin.isChainValid()}`);
 ```
 
-#### dependency of this example: `npm i crypto-js`
+#### dependency of this example: `npm i crypto-js` (ver ^4.1.1)
+
+output:
+```js
+Block mined: 000b3efee99abdcd25c255bfde634d07a27af187a174dbfdfc0bd3d340b5ec88
+Block mined: 00085ffcb46f4aea8195dfe2c5e361312bea746d535d6db1ac4fb154bfe54746
+{
+    "chain": [
+        {
+            "index": 0,
+            "timestamp": "Mon Mar 13 2023 03:18:39 GMT+0330 (وقت عادی ایران)",
+            "data": "Genesis block",
+            "previousHash": "0",
+            "hash": "a0c9c889c1d540a7e426f1c889c51750c7bc369320413f1a81c9aa2aa63b89f3",
+            "nonce": 0
+        },
+        {
+            "index": 1,
+            "timestamp": "Mon Mar 13 2023 03:18:39 GMT+0330 (وقت عادی ایران)",
+            "data": {
+                "amount": 4
+            },
+            "previousHash": "a0c9c889c1d540a7e426f1c889c51750c7bc369320413f1a81c9aa2aa63b89f3",
+            "hash": "000b3efee99abdcd25c255bfde634d07a27af187a174dbfdfc0bd3d340b5ec88",
+            "nonce": 1391
+        },
+        {
+            "index": 2,
+            "timestamp": "Mon Mar 13 2023 03:18:39 GMT+0330 (وقت عادی ایران)",
+            "data": {
+                "amount": 10
+            },
+            "previousHash": "000b3efee99abdcd25c255bfde634d07a27af187a174dbfdfc0bd3d340b5ec88",
+            "hash": "00085ffcb46f4aea8195dfe2c5e361312bea746d535d6db1ac4fb154bfe54746",
+            "nonce": 437
+        }
+    ],
+    "difficulty": 3
+}
+Is blockchain valid? true
+{
+    "chain": [
+        {
+            "index": 0,
+            "timestamp": "Mon Mar 13 2023 03:18:39 GMT+0330 (وقت عادی ایران)",
+            "data": "Genesis block",
+            "previousHash": "0",
+            "hash": "a0c9c889c1d540a7e426f1c889c51750c7bc369320413f1a81c9aa2aa63b89f3",
+            "nonce": 0
+        },
+        {
+            "index": 1,
+            "timestamp": "Mon Mar 13 2023 03:18:39 GMT+0330 (وقت عادی ایران)",
+            "data": {
+                "amount": 100
+            },
+            "previousHash": "a0c9c889c1d540a7e426f1c889c51750c7bc369320413f1a81c9aa2aa63b89f3",
+            "hash": "7980ecf6c8014a448f671e9705ad27d7305a740716d4186225afd4d72f30bfd9",
+            "nonce": 1391
+        },
+        {
+            "index": 2,
+            "timestamp": "Mon Mar 13 2023 03:18:39 GMT+0330 (وقت عادی ایران)",
+            "data": {
+                "amount": 10
+            },
+            "previousHash": "000b3efee99abdcd25c255bfde634d07a27af187a174dbfdfc0bd3d340b5ec88",
+            "hash": "00085ffcb46f4aea8195dfe2c5e361312bea746d535d6db1ac4fb154bfe54746",
+            "nonce": 437
+        }
+    ],
+    "difficulty": 3
+}
+Is blockchain valid? false
+
+```
 
 This code simulates a blockchain containing two blocks. The `Block` class represents a single block, while the `Blockchain` class represents the chain of blocks. 
 
