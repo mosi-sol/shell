@@ -34,8 +34,8 @@ Enjoy!
 		| header :                                                        |
 		|           previous block (hash) + tx root + timestamp + nonce   |
 		| block :                                                         |
-		|            timestamp = time of mining finish                    |
-		|            nonce = magic #                                      |
+		|            timestamp / time of mining finish                    |
+		|            nonce / magic #                                      |
 		|            tx root = merkle proof (or other algorithms)         |
 		-------------------------------------------------------------------
 		there is also can put data like:
