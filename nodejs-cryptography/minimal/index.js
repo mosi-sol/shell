@@ -71,8 +71,7 @@ run();
 // =====================================
 function simpleHash(dataText, secText) {
 	const data = dataText;
-	const sec = secText;
-	const secret = sec;  
+	const secret = secText;  
 	const hash = crypto.createHmac('sha256', secret)  
 			   .update(data)  
 			   .digest('hex');  
