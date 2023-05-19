@@ -1,0 +1,2 @@
+- cli version: run `cli-run.bat`
+- ui version: run `ui-run.bat`
