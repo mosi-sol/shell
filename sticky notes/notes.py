@@ -146,11 +146,10 @@ display_button = tk.Button(root, text="Notes", command=display_notes)
 display_button.pack()
 
 # ===============
-# Create a function to handle the "New Note" menu item
+# handle the menu item
 def new_note():
     add_note()
 
-# Create a function to handle the "Notes" menu item
 def show_notes():
     display_notes()
 
