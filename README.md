@@ -7,3 +7,4 @@ public learning automation shell...
 - solidity 2 python - funny project [here](https://github.com/mosi-sol/shell/tree/main/Translate%20Solidity%202%20python)
 - simple IDE [here](https://github.com/mosi-sol/shell/tree/main/ide)
 - simple json formatter [here](https://github.com/mosi-sol/shell/tree/main/JsonFormatter)
+- all solidity in folder to 1 file [here](https://github.com/mosi-sol/shell/tree/main/solidity_files_2_one_file)
