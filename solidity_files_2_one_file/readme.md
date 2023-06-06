@@ -6,6 +6,9 @@ This pyton script merging all solidity in one folder, to the 1 file "00-clean.so
 usecase: when implement so many files and want be in same file.\
 attention: in some cases solidity can not compile large siza files.
 
+### requeirment
+python
+
 - shell
 ```sh
 #!/bin/bash
