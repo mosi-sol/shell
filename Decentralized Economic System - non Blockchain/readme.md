@@ -1,4 +1,4 @@
-## How to build a *Decentralized Economic System* without using **Blockchain**
+## How to build a *Decentralized Economic System* without using Blockchain
 
 #### Simulate the creation of a decentralized economic system:
 We can use a **DLT platform** such as *IOTA*.
