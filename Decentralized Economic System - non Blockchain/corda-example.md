@@ -1,5 +1,6 @@
 ### Trade in forex, using **corda**
 - **disclaimer**: this is just "proof of concept", so first your research and not use this example on product.
+- "**const corda = require('corda-js');**" : this is fake, not valid.
 
 ```js
 const corda = require('corda-js');
