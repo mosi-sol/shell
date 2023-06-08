@@ -1,10 +1,11 @@
+```js
 import { web3Provider } from './web3Provider.js';
 import { sendTransaction } from './sendTransaction.js';
 import { callContractFunction } from './callContractFunction.js';
 
-const contractAddress = '0x...'; // Replace with the address of your NFT contract
-const contractAbi = [...]; // Replace with the ABI of your NFT contract
-const privateKey = '0x...'; // Replace with your private key
+const contractAddress = '0x...';  // Replace with the address of your NFT contract
+const contractAbi = [...];        // Replace with the ABI of your NFT contract
+const privateKey = '0x...';       // Replace with your private key
 
 async function approvePrice(price) {
   try {
@@ -65,7 +66,7 @@ async function mintNFT(tokenURI, tokenId, signature, nonce) {
 async function init() {
   try {
     // Approve the price
-    const price = 1; // 1 ETH
+    const price = 1;      // 1 ETH
     const { signature, nonce } = await approvePrice(price);
 
     // Mint the NFT
@@ -80,3 +81,4 @@ async function init() {
 }
 
 init();
+```
