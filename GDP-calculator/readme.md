@@ -40,7 +40,9 @@ Tax percent: 30.0%
 Tax owed: $15900.0
 ```
 this is from governer, but from people this is not true. why?\
-same as usa, but growth rate is shit!
+same as usa, but growth rate is shit! socialism not good, actualy capitalism better. but not good for humanity.
+
+**this types same as a cave of shit. now mao and communism very bad and i not use example for that shit. human is not slave of party!**
 
 ---
 
