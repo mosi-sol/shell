@@ -1,3 +1,5 @@
+First sign to approve the price, then mint by verify that sign.
+
 ```js
 import { web3Provider } from './web3Provider.js';
 import { sendTransaction } from './sendTransaction.js';
