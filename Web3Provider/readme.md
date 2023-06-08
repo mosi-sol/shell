@@ -1,5 +1,6 @@
 ## Web3 Provider | mosi edition
-Use all these in "lib" folder.
+Use all these in "lib" folder.\
+Mint dapp for example in this folder.
 
 #
 
