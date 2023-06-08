@@ -11,4 +11,4 @@ public learning automation shell...
 - all solidity in folder to 1 file [here](https://github.com/mosi-sol/shell/tree/main/solidity_files_2_one_file)
 - startup pre-requier simulator [here](https://github.com/mosi-sol/shell/tree/main/StartupSimulator)
 - GDP calculator [here](https://github.com/mosi-sol/shell/tree/main/GDP-calculator)
-- 
+- Decentralized economic - non blockchain [here](https://github.com/mosi-sol/shell/tree/main/Decentralized%20Economic%20System%20-%20non%20Blockchain)
