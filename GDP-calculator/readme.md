@@ -42,6 +42,8 @@ Tax owed: $15900.0
 this is from governer, but from people this is not true. why?\
 same as usa, but growth rate is shit!
 
+---
+
 **There is in the 2023 we dont have a popularity in ecosystem. marks and ford build the past era and destroying present!**
 
 ***Historical Suggestion***: Governments would be mirror of citizens. the party can not do this. the best style of government have not party, have solution. return to the history of geography of your living place to see what is good for you.\
