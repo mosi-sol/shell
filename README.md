@@ -10,3 +10,5 @@ public learning automation shell...
 - simple sticky note [here](https://github.com/mosi-sol/shell/tree/main/sticky%20notes)
 - all solidity in folder to 1 file [here](https://github.com/mosi-sol/shell/tree/main/solidity_files_2_one_file)
 - startup pre-requier simulator [here](https://github.com/mosi-sol/shell/tree/main/StartupSimulator)
+- GDP calculator [here](https://github.com/mosi-sol/shell/tree/main/GDP-calculator)
+- 
