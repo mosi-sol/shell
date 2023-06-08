@@ -46,7 +46,7 @@ same as usa, but growth rate is shit! socialism not good, actualy capitalism bet
 
 ---
 
-**There is in the 2023 we dont have a popularity in ecosystem. marks and ford build the past era and destroying present!**
+**There is in the 2023 we dont have a popularity in "economy" ecosystem. marks and ford build the past era and destroying present!**
 
 ***Historical Suggestion***: Governments would be mirror of citizens. the party can not do this. the best style of government have not party, have solution. return to the history of geography of your living place to see what is good for you.\
 #party_is_shit #capita #freedom_in_kingdom
