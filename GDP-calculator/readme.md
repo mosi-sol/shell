@@ -27,3 +27,5 @@ Burn rate: 5.0%
 Tax percent: 25.0%
 Tax owed: $37500.0
 ```
+this is from governer, but from people this is not true. why?\
+because this numbers made from grasrot, not after cost. so the capitalism in ecosystem have problem only because the parties on government.
