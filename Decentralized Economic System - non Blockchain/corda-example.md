@@ -1,5 +1,6 @@
-### Trade in forex, using **corda**
+### Trade in forex, using *Corda*
 - **disclaimer**: this is just "proof of concept", so first your research and not use this example on product.
+- more info about the **corda** [here](https://github.com/mosi-sol/shell/blob/main/Decentralized%20Economic%20System%20-%20non%20Blockchain/corda-example.md#corda-start-from-2016)
 - "**const corda = require('corda-js');**" : this is fake, not valid.
 
 ```js
