@@ -18,7 +18,7 @@ Tax owed:     $5300.0
 
 ---
 
-- us example:
+- usa example:
 ```js
 Year A GDP per capita: 130000
 Year B GDP per capita: 150000
