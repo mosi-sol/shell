@@ -1,6 +1,7 @@
 ## Web3 Provider | mosi edition
 Use all these in "lib" folder - [here](https://github.com/mosi-sol/shell/tree/main/Web3Provider/lib).\
-Mint dapp for example in [here](https://github.com/mosi-sol/shell/blob/main/Web3Provider/mint_nft_example.md).
+Mint dapp for example in [here](https://github.com/mosi-sol/shell/blob/main/Web3Provider/mint_nft_example.md).\
+Mint dapp by signing message [here](https://github.com/mosi-sol/shell/blob/main/Web3Provider/mint_nft_by_signature.md)
 
 #
 
