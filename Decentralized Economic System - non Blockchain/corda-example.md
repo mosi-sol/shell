@@ -113,3 +113,18 @@ if (transaction.status == 'COMMITTED') {
   console.log('Transaction failed. Please check the logs for details.');
 }
 ```
+
+---
+
+#### Corda start from 2016
+Corda is a **distributed ledger technology (DLT)** platform that is specifically designed for use in **business** and **financial applications**. It was developed by **R3**, a consortium of _over 200 financial institutions_, in collaboration with the _open-source community_.
+
+Corda is designed to be a secure and efficient platform for managing complex financial agreements and transactions. It uses a unique approach to DLT called "shared ledger technology" that allows multiple parties to share a single, authoritative source of truth without requiring a global consensus mechanism.
+
+Corda is built on top of a secure and scalable peer-to-peer network that enables secure communication and data exchange between nodes. It uses a "notary" service to provide transaction finality, which ensures that once a transaction has been committed to the ledger, it cannot be reversed or modified.
+
+One of the key features of Corda is its support for "smart contracts", which are programmable agreements that can be executed automatically when certain conditions are met. Corda's smart contract language, called "Kotlin", is designed to be easy to use and allows developers to express complex financial logic in a simple and intuitive way.
+
+Corda also provides a range of tools and APIs to make it easy to develop, deploy, and manage Corda networks. These include a command-line interface, a web-based user interface, and a range of developer tools and libraries.
+
+Corda is a powerful and flexible platform for managing complex financial agreements and transactions. Its unique approach to DLT and support for smart contracts make it an ideal platform for use in a wide range of business and financial applications.
