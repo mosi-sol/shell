@@ -18,7 +18,7 @@ Tax owed:     $5300.0
 
 ---
 
-- usa example:
+- usa capitalism ecosystem example:
 ```js
 Year A GDP per capita: 130000
 Year B GDP per capita: 150000
@@ -29,3 +29,17 @@ Tax owed: $37500.0
 ```
 this is from governer, but from people this is not true. why?\
 because this numbers made from grasrot, not after cost. so the capitalism in ecosystem have problem only because the parties on government.
+
+- european social ecosystem example:
+```js
+Year A GDP per capita: 50000
+Year B GDP per capita: 53000
+GDP per capita growth rate after accounting for burn rate: 1.0%
+Burn rate: 5.0%
+Tax percent: 30.0%
+Tax owed: $15900.0
+```
+this is from governer, but from people this is not true. why?\
+same as usa, but growth rate is shit!
+
+**There is in the 2023 we dont have a popularilty in ecosystem. marks and ford destroying now and build the past!**
