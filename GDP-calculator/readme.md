@@ -15,3 +15,15 @@ Burn rate:    5.0%
 Tax percent:  10.0%
 Tax owed:     $5300.0
 ```
+
+---
+
+- us example:
+```js
+Year A GDP per capita: 130000
+Year B GDP per capita: 150000
+GDP per capita growth rate after accounting for burn rate: 10.4%
+Burn rate: 5.0%
+Tax percent: 25.0%
+Tax owed: $37500.0
+```
