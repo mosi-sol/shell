@@ -9,6 +9,8 @@ Mint dapp by signing message [here](https://github.com/mosi-sol/shell/blob/main/
 
 - to use:
 ```js
+import { web3Provider } from './Web3Provider.js';
+
 async function init() {
   const accounts = await web3Provider.requestAccounts();
   const chainId = await web3Provider.getChainId();
