@@ -66,3 +66,6 @@ class Web3Provider {
 }
 
 const web3Provider = new Web3Provider(window.ethereum);
+
+// to use:
+// import { web3Provider } from './Web3Provider.js';
