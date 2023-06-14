@@ -14,3 +14,4 @@ public learning automation shell...
 - Decentralized economic - non blockchain [here](https://github.com/mosi-sol/shell/tree/main/Decentralized%20Economic%20System%20-%20non%20Blockchain)
 - Web3 Provider [here](https://github.com/mosi-sol/shell/tree/main/Web3Provider)
 - Crypto Vault (ERC 20, 721, 1155) [here](https://github.com/mosi-sol/shell/tree/main/CryptoVault)
+- Bitwise Lib [here](https://github.com/mosi-sol/shell/tree/main/BitwiseLib)
