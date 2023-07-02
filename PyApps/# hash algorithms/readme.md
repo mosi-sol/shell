@@ -1,0 +1,2 @@
+- hash algorithm standard in python
+- hash algorithm made by me in python
