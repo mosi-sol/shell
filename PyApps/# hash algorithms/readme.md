@@ -1,2 +1,3 @@
 - hash algorithm standard in python
 - hash algorithm made by me in python
+- encrypted message (aes) - 16bytes key (aes-128)
