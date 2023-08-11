@@ -1,3 +1,4 @@
+## Bitwise Lib in Solidity
 - [Bitwise Lib](https://github.com/mosi-sol/shell/blob/main/BitwiseLib/Bitwise.sol)
 - [Bitwise Assembly Lib](https://github.com/mosi-sol/shell/blob/main/BitwiseLib/BitwiseAssembly.sol)
 - [Bitwise Mask Lib](https://github.com/mosi-sol/shell/blob/main/BitwiseLib/BitwiseMask.sol)
