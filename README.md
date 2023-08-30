@@ -41,3 +41,5 @@ public learning automation shell...
 - Tangent: -0.067325668539041
 
 > Billion $ of crypto into this rabbit hole!
+
+Coinbase is alice: https://etherscan.io/tx/0x69002fc70b356f933520636e78d55728485448e0cab7df532bc30455aec1757b
