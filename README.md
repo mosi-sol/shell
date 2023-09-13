@@ -16,32 +16,32 @@ public learning automation shell...
 - https://etherscan.io/address/0xdead000000000000000042069420694206942069
 
 ##### story of 42069:
-- 3 × 37 × 379 = 42069 (3 prime numbers build this number)
-- Divisors :   1, 3, 37, 111, 379, 1137, 14023, 42069
+- `3 × 37 × 379 = 42069` (3 prime numbers build this number)
+- Divisors :   `1, 3, 37, 111, 379, 1137, 14023, 42069`
 
-- Binary: 1010010001010101(sub2)
-- Octal: 122125
-- Duodecimal: 20419
-- Hexadecimal: 0xA455
-- Base-36: WGL
+- Binary: `1010010001010101`(sub2)
+- Octal: `122125`
+- Duodecimal: `20419`
+- Hexadecimal: `0xA455`
+- Base-36: `WGL`
 
-- 42,069 seconds is equal to 11 hours, 41 minutes, 9 seconds.
+- `42,069` seconds is equal to `11` hours, `41` minutes, `9` seconds.
 
-- The sequence "42069" does not occur in the first 1 million digits of pi.
+- The sequence "`42069`" does not occur in the first `1` million digits of pi.
 
-- Is prime? NO
-- Previous prime: 42061
-- Next prime: 42071
-- 42069th prime: 506999
+- Is prime? `NO`
+- Previous prime: `42061`
+- Next prime: `42071`
+- 42069th prime: `506999`
 
-- Natural logarithm: 10.647066406395
-- Decimal logarithm: 4.6239621887547
-- Sine: 0.067173600243978
-- Cosine: -0.99774130285874
-- Tangent: -0.067325668539041
+- Natural logarithm: `10.647066406395`
+- Decimal logarithm: `4.6239621887547`
+- Sine: `0.067173600243978`
+- Cosine: `-0.99774130285874`
+- Tangent: `-0.067325668539041`
 
 #### fanaly result
-that wallet built with the **vanity** address generator
+that wallet built with the **`vanity`** address generator
 
 > Billion $ of crypto into this rabbit hole!
 
