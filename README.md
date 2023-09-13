@@ -12,7 +12,7 @@ public learning automation shell...
 
 #### Funny Mathematics moment:
 "this is not black hole of crypto wallets, this address is Rabbit hole! who is the owner? Alice!"
-- 0xdEAD0000000000000000420694206942069**`42069`**
+- 0xdEAD0000000000000000420694206942069`42069`
 - https://etherscan.io/address/0xdead000000000000000042069420694206942069
 
 ##### story of 42069:
