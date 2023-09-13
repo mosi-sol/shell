@@ -46,3 +46,5 @@ that wallet built with the **`vanity`** address generator
 > Billion $ of crypto into this rabbit hole!
 
 Coinbase is alice: https://etherscan.io/tx/0x69002fc70b356f933520636e78d55728485448e0cab7df532bc30455aec1757b
+
+Vanity addresses, or vanity addresses, are cryptocurrency addresses personalized and created respecting a series of parameters given by the users of said addresses. This with the aim of making them more personal and easily identifiable, but without giving up the security they provide.
