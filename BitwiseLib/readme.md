@@ -5,3 +5,5 @@
 - [Example to use](https://github.com/mosi-sol/shell/blob/main/BitwiseLib/UseBitwise.sol)
 
 **Bitwise Assembly Lib** & **Bitwise Lib** are the same
+
+- [simple usecase](https://github.com/mosi-sol/shell/blob/main/BitwiseLib/SimpleUsecase.sol)
