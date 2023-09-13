@@ -40,6 +40,9 @@ public learning automation shell...
 - Cosine: -0.99774130285874
 - Tangent: -0.067325668539041
 
+#### fanaly result
+that wallet built with the **vanity** address generator
+
 > Billion $ of crypto into this rabbit hole!
 
 Coinbase is alice: https://etherscan.io/tx/0x69002fc70b356f933520636e78d55728485448e0cab7df532bc30455aec1757b
