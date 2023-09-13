@@ -60,8 +60,8 @@ if __name__ == "__main__":
 
 ```
 
-This code defines a DAG class that represents a directed acyclic graph. The add_node() and add_edge() methods add a node and an edge to the graph, respectively. The topological_sort() method performs a topological sort of the graph, which is a linear ordering of the nodes such that no node precedes a node that depends on it.
+This code defines a `DAG` class that represents a directed acyclic graph. The `add_node()` and `add_edge()` methods add a node and an edge to the graph, respectively. The `topological_sort()` method performs a topological sort of the graph, which is a linear ordering of the nodes such that no node precedes a node that depends on it.
 
-The main function creates a DAG with four nodes and three edges. It then calls the topological_sort() method to print the topological order of the nodes.
+The main function creates a **DAG** with four nodes and three edges. It then calls the `topological_sort()` method to print the topological order of the nodes.
 
 > This is just an example. as always: not use in product!
