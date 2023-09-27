@@ -41,7 +41,7 @@ public learning automation shell...
 - Tangent: `-0.067325668539041`
 
 #### finaly result
-that wallet built with the **`vanity`** address generator
+that wallet can to built with the **`vanity`** address generator
 
 > Billion $ of crypto into this rabbit hole!
 
